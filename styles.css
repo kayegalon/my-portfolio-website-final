@@ -339,6 +339,10 @@ a.resume {
 		height: 24rem;
 	}
 	
+	.project-title {
+		width: 18rem;
+	}
+	
 	a.see-more-btn {
 		width: 100%;
 	}
