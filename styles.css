@@ -328,6 +328,7 @@ a.resume {
 	
 	.contact {
 		margin-top: 1rem;
+		margin-right: 0;
 		display: flex;
 		justify-content: center;
 	}
@@ -344,6 +345,10 @@ a.resume {
 	
 	.heading {
 		font-size: 1.5rem;
+	}
+	
+	#projects {
+		padding-left: 0;
 	}
 	
 	.project-tiles {
